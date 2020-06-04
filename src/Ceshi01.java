@@ -8,7 +8,7 @@ public class Ceshi01 {
         System.out.println(getType(i));
         System.out.println("打印语句改动了");
         System.out.println("gaile");
-        
+        System.out.println("IDEA集成GitHub后加了一句");
 
     }
 
