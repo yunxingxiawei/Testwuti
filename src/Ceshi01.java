@@ -9,6 +9,7 @@ public class Ceshi01 {
         System.out.println("打印语句改动了");
         System.out.println("gaile");
         System.out.println("IDEA集成GitHub后加了一句");
+        System.out.println("该更新代码了");
 
     }
 
