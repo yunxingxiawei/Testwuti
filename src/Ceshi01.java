@@ -6,6 +6,9 @@ public class Ceshi01 {
         int i = 10;
         i = b+2;
         System.out.println(getType(i));
+        System.out.println("打印语句改动了");
+        System.out.println("gaile");
+        
 
     }
 
